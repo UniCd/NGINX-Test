@@ -1,3 +1,3 @@
 #NNGINX-Test Info
-#NGINX - this is test message
+#NGINX - this is testing message
 
